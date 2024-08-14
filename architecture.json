@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "Please make the buttons green"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nAI: Got it, working on making the buttons green.\nUser: Please make the buttons green\nThis is the user's current request of changes to be made: Please make the button green"
     }
 ]

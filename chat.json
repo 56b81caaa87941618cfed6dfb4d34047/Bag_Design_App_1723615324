@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, working on making the buttons red.",
+        "message_id": "guest14082024164123",
+        "timestamp": "14082024164124",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Please make the buttons red",
         "message_id": "guest14082024164123",

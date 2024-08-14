@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of green in mind for the buttons, or would you like us to choose a shade that aligns with the overall app design?\", \"option1\": \"I have a specific shade in mind.\", \"option2\": \"Please choose a shade that aligns with the app's design.\"}, {\"question 2\": \"Are you referring to all buttons within the app, or are there specific buttons you want to change the color of?\", \"option1\": \"Change the color of all buttons.\", \"option2\": \"Only specific buttons need color changes.\"}], \"input_token_count\": 257, \"output_token_count\": 130, \"time_taken\": \"0:00:04.695529\"}",
+        "message_id": "guest14082024155324",
+        "timestamp": "14082024155331",
+        "component_file_name": "simple_hero_component_1723615326",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement hover effects on buttons for better user interaction\", \"checked\": true}, {\"feature\": \"Add accessibility features to buttons for visually impaired users\", \"checked\": false}, {\"feature\": \"Integrate button loading states for feedback on user actions\", \"checked\": true}, {\"feature\": \"Utilize different button shapes to indicate primary and secondary actions\", \"checked\": false}, {\"feature\": \"Incorporate button tooltips for additional information on hover\", \"checked\": true}, {\"feature\": \"Enable button animation effects for a more dynamic UI\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 119, \"time_taken\": \"0:00:04.415366\"}",
         "message_id": "guest14082024155324",

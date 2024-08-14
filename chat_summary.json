@@ -18,5 +18,11 @@
         "content": "Please make the buttons green",
         "timestamp": "14082024155326",
         "message_id": "guest14082024155324"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Implement hover effects on buttons for better user interaction\", \"checked\": true}, {\"feature\": \"Add accessibility features to buttons for visually impaired users\", \"checked\": false}, {\"feature\": \"Integrate button loading states for feedback on user actions\", \"checked\": true}, {\"feature\": \"Utilize different button shapes to indicate primary and secondary actions\", \"checked\": false}, {\"feature\": \"Incorporate button tooltips for additional information on hover\", \"checked\": true}, {\"feature\": \"Enable button animation effects for a more dynamic UI\", \"checked\": false}], \"input_token_count\": 211, \"output_token_count\": 119, \"time_taken\": \"0:00:04.415366\"}",
+        "timestamp": "14082024155330",
+        "message_id": "guest14082024155324"
     }
 ]

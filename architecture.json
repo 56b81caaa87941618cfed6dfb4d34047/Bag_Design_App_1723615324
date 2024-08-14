@@ -22,5 +22,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the User requested the AI to change the buttons to green. The AI acknowledged the request, stating that it was working on making the buttons green. Subsequently, the AI asked the User for further details about the project to gain better context.\nUser: Please change the buttons to green\nUser: Please make the buttons red\nAI: Alright, I'm making the button green as requested.\nUser: Please make the button green\nThis is the user's current request of changes to be made: Please make the buttons red"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nThe user requested to make the buttons green, to which the AI acknowledged and confirmed it was working on this change. The AI then posed two questions to the user for clarification: whether the user had a specific shade of green in mind or preferred the AI to choose one that fits the overall app design, and whether the user wanted all buttons to change color or just specific ones. Additionally, the AI provided a list of potential features for the buttons, including hover effects, accessibility options, loading states, varied shapes for actions, tooltips, and animation effects, with some features checked as implemented and others not. The user repeated their request for green buttons, prompting the AI to confirm it was addressing this. Lastly, the AI asked the user to provide more details about the project.\nAI: Acknowledged, working on making the buttons red.\nUser: Please make the buttons red\nUser: Please change the buttons to green\nUser: Please make the buttons red\nThis is the user's current request of changes to be made: Please change the buttons to green"
     }
 ]

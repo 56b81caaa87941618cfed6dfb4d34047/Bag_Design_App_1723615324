@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Did you mean to change your request from red to green, or was mentioning 'red' a typographical error?\", \"option1\": \"Yes, I meant to change my request to green.\", \"option2\": \"No, mentioning 'red' was a typo, please keep the buttons green.\"}, {\"question 2\": \"Are you looking for the button color change to be applied universally across the entire app or only specific buttons or pages?\", \"option1\": \"Change all buttons across the entire app.\", \"option2\": \"Only specific buttons/pages, I will provide further details.\"}], \"input_token_count\": 475, \"output_token_count\": 132, \"time_taken\": \"0:00:05.715831\"}",
+        "message_id": "guest14082024164539",
+        "timestamp": "14082024164547",
+        "component_file_name": "simple_hero_component_1723615326",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adaptive button sizing for different devices\", \"checked\": true}, {\"feature\": \"Button press animation for better user feedback\", \"checked\": false}, {\"feature\": \"Customizable button shapes (rounded, square, etc.)\", \"checked\": false}, {\"feature\": \"Dynamic button shading to indicate interactivity\", \"checked\": true}, {\"feature\": \"Integrated loading indicators for action buttons\", \"checked\": false}, {\"feature\": \"Tooltip on hover or long press for more information\", \"checked\": true}], \"input_token_count\": 429, \"output_token_count\": 120, \"time_taken\": \"0:00:05.167861\"}",
         "message_id": "guest14082024164539",

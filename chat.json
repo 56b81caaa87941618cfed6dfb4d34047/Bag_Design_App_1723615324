@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the red color to be applied to all buttons within the app, or are there specific buttons you're targeting for this change?\", \"option1\": \"Change all buttons to red\", \"option2\": \"Only specific buttons need to be red\"}, {\"question 2\": \"For the red color adjustment, do you prefer a certain shade of red, and should this change affect the button background, text color, or both?\", \"option1\": \"A bright red for both background and text\", \"option2\": \"A dark red, but just for the background\"}], \"input_token_count\": 547, \"output_token_count\": 131, \"time_taken\": \"0:00:04.992687\"}",
+        "message_id": "guest14082024164750",
+        "timestamp": "14082024164757",
+        "component_file_name": "simple_hero_component_1723615326",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, currently working on changing buttons to red.",
         "message_id": "guest14082024164750",

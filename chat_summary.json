@@ -12,5 +12,11 @@
         "content": "Got it, working on making the buttons green.",
         "timestamp": "14082024155325",
         "message_id": "guest14082024155324"
+    },
+    {
+        "role": "user",
+        "content": "Please make the buttons green",
+        "timestamp": "14082024155326",
+        "message_id": "guest14082024155324"
     }
 ]

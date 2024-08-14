@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Please make the buttons green",
+        "message_id": "guest14082024155324",
+        "timestamp": "14082024155326",
+        "component_file_name": "simple_hero_component_1723615326",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, working on making the buttons green.",
         "message_id": "guest14082024155324",

@@ -36,5 +36,11 @@
         "content": "Please make the button green",
         "timestamp": "14082024155811",
         "message_id": "guest14082024155810"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm making the button green as requested.",
+        "timestamp": "14082024155811",
+        "message_id": "guest14082024155810"
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm making the button green as requested.",
+        "message_id": "guest14082024155810",
+        "timestamp": "14082024155811",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Please make the button green",
         "message_id": "guest14082024155810",

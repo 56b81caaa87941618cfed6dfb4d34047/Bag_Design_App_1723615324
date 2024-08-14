@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Please make the button green",
+        "message_id": "guest14082024155810",
+        "timestamp": "14082024155811",
+        "component_file_name": "simple_hero_component_1723615326",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of green in mind for the buttons, or would you like us to choose a shade that aligns with the overall app design?\", \"option1\": \"I have a specific shade in mind.\", \"option2\": \"Please choose a shade that aligns with the app's design.\"}, {\"question 2\": \"Are you referring to all buttons within the app, or are there specific buttons you want to change the color of?\", \"option1\": \"Change the color of all buttons.\", \"option2\": \"Only specific buttons need color changes.\"}], \"input_token_count\": 257, \"output_token_count\": 130, \"time_taken\": \"0:00:04.695529\"}",
         "message_id": "guest14082024155324",

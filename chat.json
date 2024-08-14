@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Please change the buttons to green",
+        "message_id": "guest14082024164539",
+        "timestamp": "14082024164540",
+        "component_file_name": "simple_hero_component_1723615326",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of red would you like the buttons to be?\", \"option1\": \"Bright red\", \"option2\": \"Dark red\"}, {\"question 2\": \"Would you like the text color on the buttons to be adjusted for better visibility with the new red background?\", \"option1\": \"Yes, adjust the text color for better visibility.\", \"option2\": \"No, keep the current text color.\"}], \"input_token_count\": 372, \"output_token_count\": 97, \"time_taken\": \"0:00:02.951008\"}",
         "message_id": "guest14082024164123",

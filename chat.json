@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Please change the buttons to green",
+        "message_id": "guest14082024161739",
+        "timestamp": "14082024161740",
+        "component_file_name": "simple_hero_component_1723615326",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want all buttons in the app to be changed to red, or only specific ones?\", \"option1\": \"Change all buttons to red.\", \"option2\": \"Only specific buttons should be red, I will specify which ones.\"}, {\"question 2\": \"Should the red color be applied to the buttons' background, text, or both?\", \"option1\": \"Apply red to the background of the buttons.\", \"option2\": \"Apply red to the text of the buttons.\"}], \"input_token_count\": 323, \"output_token_count\": 113, \"time_taken\": \"0:00:04.594921\"}",
         "message_id": "guest14082024160711",

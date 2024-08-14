@@ -42,5 +42,11 @@
         "content": "Alright, I'm making the button green as requested.",
         "timestamp": "14082024155811",
         "message_id": "guest14082024155810"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of green in mind for the buttons?\", \"option1\": \"Yes, I'll provide the hex code.\", \"option2\": \"No, feel free to choose an aesthetically pleasing shade.\"}, {\"question 2\": \"Should the button text color change to ensure it remains visible against the green background?\", \"option1\": \"Yes, change the text color to maintain readability.\", \"option2\": \"No, keep the text color the same.\"}], \"input_token_count\": 302, \"output_token_count\": 111, \"time_taken\": \"0:00:04.557541\"}",
+        "timestamp": "14082024155816",
+        "message_id": "guest14082024155810"
     }
 ]
